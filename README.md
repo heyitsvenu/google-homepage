@@ -1,0 +1,1 @@
+This is a mini-project for the [_TheOdinProject_](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/html-css) curriculum. It is a easier version of the project which is just a basic google homepage replica.
